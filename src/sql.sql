@@ -63,7 +63,6 @@
 -- SELECT * FROM users;
 
 -- // Learning Phase 1 *******************************
--- // use ctr + shift + Q: to run query
 -- // create table (this create table with columns):
 
 -- CREATE TABLE USERS (username TEXT NOT NULL PRIMARY KEY,
@@ -77,5 +76,10 @@
 -- // select all users
 
 -- SELECT * FROM users;
+
+-- // Note the Following *******************************
+-- // use ctr + shift + Q: to run query
+-- // remove the two files from src folder before usage
+
 
   
